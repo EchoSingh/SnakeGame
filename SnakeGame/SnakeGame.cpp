@@ -145,6 +145,7 @@ int main()
         Draw();
         Input();
         Logic();
+        //So guys this side me if u are biginner please increase time from here 
         std::this_thread::sleep_for(std::chrono::milliseconds(100));
     }
     return 0;
