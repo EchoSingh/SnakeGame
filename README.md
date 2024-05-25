@@ -2,6 +2,8 @@
 
 This is a simple Snake game implemented in C++.
 
+![Game](https://github.com/aditya26062003/SnakeGame/blob/master/Screenshot%202024-05-25%20132448.png)
+
 ## How to Play
 
 - Use the keys (`w`, `s`, `a`, `d`) to control the direction of the snake.
